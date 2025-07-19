@@ -1,0 +1,1 @@
+// AIAnalysisResult model
