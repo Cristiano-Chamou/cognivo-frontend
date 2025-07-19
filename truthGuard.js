@@ -1,0 +1,1 @@
+// Intervenção ética no frontend via TruthScore

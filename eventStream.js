@@ -1,0 +1,1 @@
+// Feed tático com cards de alertas em tempo real

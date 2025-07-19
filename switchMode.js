@@ -1,0 +1,1 @@
+// Lógica para alternar entre Base e Trader

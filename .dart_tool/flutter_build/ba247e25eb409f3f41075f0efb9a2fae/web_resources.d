@@ -1,0 +1,1 @@
+ C:\\Users\\crist\\Desktop\\Cognito\\frontend\\build\\web\\manifest.json:  C:\\Users\\crist\\Desktop\\Cognito\\frontend\\web\\index.html C:\\Users\\crist\\Desktop\\Cognito\\frontend\\web\\manifest.json

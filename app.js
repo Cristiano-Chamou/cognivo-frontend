@@ -1,0 +1,1 @@
+console.log('Cognivo TRADER app iniciado');
